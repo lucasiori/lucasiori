@@ -6,7 +6,7 @@
   
 **Talking about personal stuffs:**
 
-- 🧑‍💻 Working on [Origin Financial](https://www.useorigin.com/).
+- 🧑‍💻 Working hard.
 - 🌱 Improving my knowledge about front-end stuffs and infrastructure.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach me: <a href="https://linkedin.com/in/lucas-iori" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-iori" height="15" width="15" /></code></a>
